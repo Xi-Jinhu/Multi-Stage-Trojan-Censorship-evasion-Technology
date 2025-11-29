@@ -1,0 +1,49 @@
+# MSTS (Multi-Stage Trojan Technology) Guidelines
+
+MSTS is a serious undertaking, so we are seeking talented developers and contributors.
+
+## 1. Ethics and Licensing (GPL v3)
+
+MSTS is released under the GNU General Public License version 3 (GPL v3).
+
+* **No Monopolies:** Derivative software using MSTS code must also be released under the GPL v3.
+* **Commitment to the Mission:** Contributors must be committed to MSTS's goal of "free access to information" and must be ethically responsible in ensuring that their code and technology are not used for censorship or surveillance.
+
+## 2. Current Core Roles
+
+This is an urgent role for the early stages of the project (PoC phase).
+
+### 🚀 Core Protocol Developer
+* **Required Skills:** Familiarity with network programming and cryptography, such as Go, Rust, or C++.
+* **Major Tasks**
+* Design and implementation of Trojan protocol (full HTTPS mimicry).
+* Build secure and high-speed relay logic between S1 → S2 → S3.
+
+### 🛠️ MTD/Infrastructure Engineer
+* **Required Skills** Knowledge of cloud API (AWS/GCP, etc.), automation scripts (Python, etc.), and IaC (Terraform, etc.).
+* **Major Tasks**
+* Create a proof of concept for an MTD (dynamic defense) system that automatically changes and retires IP addresses and domain names at unpredictable times.
+* Design a node discovery and server health check mechanism.
+
+## 3. How to Start Contributing
+
+In addition to code contributions, design reviews and documentation are also welcome.
+
+1. **Contact Us** First, please contact the project lead (习近乎) through the communication channels below. Please let us know your skills and areas of interest.
+2. **Select an Issue:** Check the GitHub Issues tab and select the unassigned task you want to work on (e.g., `#1 Trojan Protocol Design Review`).
+
+3. **Pull Request (PR):** Please submit a pull request, even for small changes. Code will be reviewed based on strict security standards.
+
+## 4. Communication
+
+Confidentiality and quick decision-making are important in the early stages.
+
+* **Confidential Discussions:** `Telegram: @zibudechan`
+* **General Discussions and Bug Reports:** GitHub Issues
+
+## 5. Use of AI
+
+The use of AI (LLM) is generally permitted. However, please strictly adhere to the following guidelines:
+
+* **Quality and Security:** The use of low-quality LLMs and bots is prohibited. AI-generated code must meet the project's **security standards** and undergo **rigorous review** by human developers.
+* **Usage Restrictions:** Limit use to code generation and error correction.
