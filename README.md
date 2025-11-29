@@ -31,4 +31,4 @@ Manual listing is possible, but automating it reduces the burden and enables fas
 
 # Ethics and Licensing
 
-All MSTS code will be released under the GPL v3. This prevents technology monopolies and ensures contributions to the community.
+All MSTS code will be released under the MIT License. This prevents technology monopolies and ensures contributions to the community.
