@@ -4,9 +4,9 @@ MSTS is a serious undertaking, so we are seeking talented developers and contrib
 
 ## 1. Ethics and Licensing (GPL v3)
 
-MSTS is released under the GNU General Public License version 3 (GPL v3).
+MSTS is released under the MIT License
 
-* **No Monopolies:** Derivative software using MSTS code must also be released under the GPL v3.
+* **No Monopolies:** Derivative software using MSTS code must also be released under the MIT License.
 * **Commitment to the Mission:** Contributors must be committed to MSTS's goal of "free access to information" and must be ethically responsible in ensuring that their code and technology are not used for censorship or surveillance.
 
 ## 2. Current Core Roles
